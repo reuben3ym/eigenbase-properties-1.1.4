@@ -1,4 +1,4 @@
 eigenbase-properties-1.14
 ====================
-
-Type-safe access to Java system properties
+ 
+spark-hive_2.11 ==> eigenbase-properties-1.14
